@@ -63,7 +63,7 @@ export default class Agenda extends Component {
 
                 <View style={styles.headerHistorico}>
 
-                    <Text style={styles.title}>SPMG</Text>
+                    <Text style={styles.title}>SP Medical Group</Text>
 
                 </View>
 
@@ -128,7 +128,7 @@ const styles = StyleSheet.create({
         height: '15%',
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#080F5A99'
+        backgroundColor: '#094D1FF'
     },
 
     title: {
@@ -140,13 +140,13 @@ const styles = StyleSheet.create({
     },
 
     subTitleContent: {
-        // backgroundColor:'pink',       
+           
         justifyContent: 'center',
         height: '10%'
     },
 
     subTitle: {
-        color: '#080F5A',
+        color: '#94D1FF',
         fontSize: 18,
         paddingLeft: 30
 
@@ -154,7 +154,7 @@ const styles = StyleSheet.create({
 
     mainHeaderLine: {
         width: 175,
-        borderBottomColor: '#080F5A',
+        borderBottomColor: '#94D1FF',
         borderBottomWidth: 1,
         marginLeft: 30
     },
@@ -174,7 +174,6 @@ const styles = StyleSheet.create({
         borderWidth: 1.5,
         borderColor: '#080F5A',
         marginTop: 5,
-        borderRadius: 5,
         backgroundColor: '#F1F1F1',
         shadowColor: "#F1F1F1",
         shadowRadius: 2

@@ -140,11 +140,11 @@ const styles = StyleSheet.create({
         height: '15%',
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#080F5A99'
+        backgroundColor: '#94D1FF'
     },
 
     title: {
-        color: '#08db94',
+        color: '#A1F1F7',
         fontSize: 25,
         // fontWeight:600,
         marginTop: 10,
@@ -159,7 +159,7 @@ const styles = StyleSheet.create({
     },
 
     subTitle: {
-        color: '#080F5A',
+        color: '#94D1FF',
         fontSize: 18,
         paddingLeft: 30,
 
@@ -175,7 +175,7 @@ const styles = StyleSheet.create({
     emailText: {
 
         borderWidth: 1.5,
-        borderColor: '#080F5A',
+        borderColor: '#94D1FF',
         marginTop: 5,
         borderRadius: 5,
         backgroundColor: '#F1F1F1',
@@ -189,7 +189,7 @@ const styles = StyleSheet.create({
     },
 
     textInfo: {
-        color: '#080F5A',
+        color: '#94D1FF',
         fontSize: 14,
         marginTop: 5
     },

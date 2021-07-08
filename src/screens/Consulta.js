@@ -135,7 +135,7 @@ const styles = StyleSheet.create({
         height: '15%',
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#080F5A99'
+        backgroundColor: '#94D1FF'
     },
 
     title: {
@@ -159,7 +159,7 @@ const styles = StyleSheet.create({
 
     mainHeaderLine: {
         width: 200,
-        borderBottomColor: '#080F5A',
+        borderBottomColor: '#94D1FF',
         borderBottomWidth: 1,
         marginLeft: 30
     },    
